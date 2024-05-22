@@ -1,0 +1,16 @@
+O php não é uma linguagem fortimente tipada => Não precisa expecificar o tipo da variavel na hora de declarar;
+O php é escrito na Linguagem C;
+
+O Apache é feito para o php (Servidor Web);
+Prepara o Servidor - Infra;
+Maioria dos Sites hoje usam o PHP (os mais avançados usam a versão 5.4, 5.5 e 7);
+O Xampp não é o servidor
+
+O arquivo de configuração do Apache é o "HTTPD.CONF"
+O arquivo de configuração do PHP é o "PHP.ini"
+
+intranet é o local nesta maquina (servidor local);
+
+Apache é p interpretador do PHP, ele lê o codigo HTML do PHP e exibe na Web;
+
+Não é obrigatorio fechar o codigo php se só tiver codigo em php;
